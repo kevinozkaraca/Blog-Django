@@ -8,7 +8,7 @@
 
 ### Qu'est le but de ce projet ?
 
-Ce but est de mettre en place un projet Django de A à Z en utilisant un template Bootstrap 5. 
+Le but de ce projet est de mettre en place un projet Django de A à Z en utilisant un template Bootstrap 5. Le fichier HTML du template sera modifié et l'objectif est de mettre en place une partie administration capable de générer des articles et d'effectuer des modifications sur le site. Il faudra qu'un accès soit uniquement disponible aux administrateurs.
 
 ### La mise en place :
 
@@ -17,7 +17,6 @@ Bla bla bla à venir
 ### Mes reseaux sociaux : 
 
 <p align="center">
-  <br/>
     <div class="socialIcons">
             <a href="https://github.com/kevinozkaraca" target="_blank"><img width="8%" src="imagesReadme/iconGithub.png" alt="Icone Github de Kevin Özkaraca" aria-label="Accedez à mes dépots Github" title="Accedez à mes dépots Github"></a>
             <a href="https://www.facebook.com/kevinozkaraca" target="_blank"><img width="8%" src="imagesReadme/iconFacebook.png" alt="Icone Facebook de Kevin Özkaraca" aria-label="Accedez à mon compte Facebook" title="Accedez à mon compte Facebook" ></a>
