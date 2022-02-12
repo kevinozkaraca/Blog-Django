@@ -2,7 +2,7 @@
 
 <br/>
 <p align="center">
-  <img align="center" width="60%" alt="code du jeu Shi-Fu-Mi" src="imagesReadme/projet01.gif"/>
+  <img align="center" width="80%" alt="Base du projet Django - BootStrap 5" src="imagesReadme/projet01.gif"/>
 </p>
 <br/>
 
@@ -12,7 +12,17 @@ Le but de ce projet est de mettre en place un projet Django de A à Z en utilisa
 
 ### La mise en place :
 
-Bla bla bla à venir
+Avant de continuer à structurer le projet, je suis parti dans les métadonnées des fichiers HTML pour remplacer les liens vers des sites externes par des fichiers pour les framesworks et les polices d'écriture. J'ai également changé la date et langue du site, qui sera en français.
+
+<br/>
+<p align="center">
+  <img align="center" width="80%" alt="Base du projet Django - BootStrap 5" src="imagesReadme/projet02.png"/>
+</p>
+<br/>
+<p align="center">
+  <img align="center" width="80%" alt="Base du projet Django - BootStrap 5" src="imagesReadme/projet03.png"/>
+</p>
+<br/>
 
 ### Mes reseaux sociaux : 
 
